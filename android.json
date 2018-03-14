@@ -1,0 +1,16 @@
+{
+  "domainUrl":"",
+  "updateUrl":"http://qjdown.xgveg.com",
+  "branches":[
+    {
+      "code":"1000",
+      "version":"1.0.0",
+      "status":"release"
+    },
+      {
+      "code":"1001",
+      "version":"1.0.1",
+      "status":"release"
+    }
+  ]
+}
