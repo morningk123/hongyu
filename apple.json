@@ -3,13 +3,13 @@
   "updateUrl":"http://hydown.xgveg.com",
   "branches":[
     {
-      "code":"1000",
-      "version":"1.0.0",
+      "code":"1002",
+      "version":"1.0.2",
       "status":"release"
     },
     {
-      "code":"1002",
-      "version":"1.0.2",
+      "code":"1003",
+      "version":"1.0.3",
       "status":"release"
     }
   ]
